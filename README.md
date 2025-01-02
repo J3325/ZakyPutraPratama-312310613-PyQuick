@@ -9,7 +9,7 @@
 **`PyQuick`** <br>
 adalah aplikasi `Quick Reference` <br>
 untuk mempermudah pengguna menggunakan dan <br>
-mengetahui code-code python dengan lebih cepat. <br>
+mengetahui code sintaks python dengan lebih cepat. <br>
 #
 ## StoryBoard
 ![gambar](pyquickk/sb.png)
