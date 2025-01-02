@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PyQuick</string>
+    <string name="tombol_masuk">Tombol Masuk</string>
+    <string name="item_title">Item Title</string>
+    <string name="versi">version 0.1</string>
+    <string name="hello_world">Hello World</string>
+    <string name="continue_button">button</string>
+    <string name="gambar">py</string>
+    <string name="menu">menu</string>
+    <string name="pyquick">nama</string>
+    <string name="search">cari</string>
+    <string name="exit_button">Exit</string>
+    <string name="back_button">Back</string>
+    <string name="home">home</string>
+    <string name="logos">logo</string>
+</resources>

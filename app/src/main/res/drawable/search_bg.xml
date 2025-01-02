@@ -1,0 +1,18 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bayangan -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#55000000" /> <!-- Warna bayangan -->
+            <corners android:radius="30dp" /> <!-- Sudut melengkung -->
+            <padding android:left="0dp" android:top="0dp" android:right="1dp" android:bottom="2dp"/> <!-- Padding untuk efek bayangan -->
+        </shape>
+    </item>
+
+    <!-- Latar Belakang -->
+    <item android:bottom="2dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/blue" /> <!-- Ganti dengan warna yang diinginkan -->
+            <corners android:radius="30dp" /> <!-- Sesuaikan dengan tingkat kebulatan yang diinginkan -->
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#D9D9D9</color>
+    <color name="yellow">#CBB64C</color>
+    <color name="blue">#2A4FA5</color>
+    <color name="red">#EC221F</color>
+    <color name="hitampudar">#1E1E1E</color>
+    <color name="hitamin">#282825</color>
+    <color name="light_blue">#BBDEFB</color>
+</resources>
